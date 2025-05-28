@@ -1,4 +1,4 @@
-### Water-Consumption-CC:
+### Water-Consumption CC:
 
 
 This C++ program processes multiple test cases and checks whether each input number is **greater than or equal to 2000**. Here's a concise explanation of its working:

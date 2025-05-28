@@ -30,4 +30,3 @@ Yes
 Yes
 ```
 
-This code is useful for checking eligibility or passing thresholds, such as age, salary, or score limits. Let me know if you'd like a [Python version](f) or [code comments](f) added.

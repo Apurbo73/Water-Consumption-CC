@@ -30,3 +30,7 @@ Yes
 Yes
 ```
 
+## Approach:
+This program takes a number of test cases as input and then checks, for each case, whether a given number is greater than or equal to 2000. It uses a loop that runs once for each test case, reading an integer and applying a simple conditional check.
+
+If the input number is 2000 or more, the program outputs "Yes"; otherwise, it prints "no". The logic is straightforward and demonstrates basic use of input/output, loops, and conditionals in C++ for decision-making tasks.
